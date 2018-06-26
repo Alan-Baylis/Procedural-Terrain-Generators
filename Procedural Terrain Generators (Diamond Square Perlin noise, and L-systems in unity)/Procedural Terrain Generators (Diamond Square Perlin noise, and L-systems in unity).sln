@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural Terrain Generators (Diamond Square Perlin noise, and L-systems in unity)", "Procedural Terrain Generators (Diamond Square Perlin noise, and L-systems in unity).csproj", "{88A64416-E5E4-9BBB-0C0A-6435273C045A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural Terrain Generators (Diamond Square Perlin noise, and L-systems in unity).Plugins", "Procedural Terrain Generators (Diamond Square Perlin noise, and L-systems in unity).Plugins.csproj", "{B40F27EB-A66F-1B80-446E-E78E3B2EADA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural Terrain Generators (Diamond Square Perlin noise, and L-systems in unity).Editor.Plugins", "Procedural Terrain Generators (Diamond Square Perlin noise, and L-systems in unity).Editor.Plugins.csproj", "{945D703F-D83D-9F68-A02E-5D91723F15C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Procedural Terrain Generators (Diamond Square Perlin noise, and L-systems in unity).Editor", "Procedural Terrain Generators (Diamond Square Perlin noise, and L-systems in unity).Editor.csproj", "{419CF7C9-7621-6F57-E8FE-E795FAD94022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A64416-E5E4-9BBB-0C0A-6435273C045A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A64416-E5E4-9BBB-0C0A-6435273C045A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A64416-E5E4-9BBB-0C0A-6435273C045A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A64416-E5E4-9BBB-0C0A-6435273C045A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40F27EB-A66F-1B80-446E-E78E3B2EADA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40F27EB-A66F-1B80-446E-E78E3B2EADA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40F27EB-A66F-1B80-446E-E78E3B2EADA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40F27EB-A66F-1B80-446E-E78E3B2EADA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945D703F-D83D-9F68-A02E-5D91723F15C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945D703F-D83D-9F68-A02E-5D91723F15C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945D703F-D83D-9F68-A02E-5D91723F15C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945D703F-D83D-9F68-A02E-5D91723F15C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419CF7C9-7621-6F57-E8FE-E795FAD94022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419CF7C9-7621-6F57-E8FE-E795FAD94022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419CF7C9-7621-6F57-E8FE-E795FAD94022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419CF7C9-7621-6F57-E8FE-E795FAD94022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
